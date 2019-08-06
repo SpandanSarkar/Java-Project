@@ -223,3 +223,11 @@ ALTER TABLE `student profile`
 --
 ALTER TABLE `tutor profile`
   MODIFY `Serial` int(6) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+
+
+
+
+
+
+
+In java library add jconnector and rs2xml (for table) jar file.
