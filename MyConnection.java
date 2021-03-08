@@ -11,7 +11,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Sunanda
+ * @author Spandan
  */
 public class MyConnection {
     public static Connection getConnection(){
