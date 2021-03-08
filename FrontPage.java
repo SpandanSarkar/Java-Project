@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Sunanda
+ * @author Spandan
  */
 public class FrontPage extends javax.swing.JFrame {
 
