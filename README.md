@@ -1,5 +1,5 @@
 # Java-Project
-Tution management system with java swing and MySQL.
+Tuition management system with java swing and MySQL.
 
 
 MySQL database is given below:
